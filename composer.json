@@ -1,0 +1,25 @@
+{
+    "name": "cehojac/cmb2-field-order",
+    "type": "cmb2-addon",
+    "description": "Custom field for CMB2 to store custom order of options.",
+    "keywords": ["cmb2","CMB2","WordPress"],
+    "homepage": "https://github.com/cehojac/cmb2-field-order/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rubengc",
+            "email": "rubengcdev@gmail.com",
+            "homepage": "https://gamipress.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Carlos Herrera",
+            "email": "cehojac@gmail.com",
+            "homepage": "https://carlos-herrera.com",
+            "role": "Only composer.json file"
+        }
+    ],
+    "require": {
+        "cmb2/cmb2":"dev-master"
+    }
+}
